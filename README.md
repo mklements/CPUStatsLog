@@ -26,11 +26,11 @@ This makes it useful for:
 Open a terminal on your Pi and run:
 1. Clone the repository
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/mklements/CPUStatsLog.git
 ```
 2. Change into the directory
 ```
-cd YOUR-REPO-NAME
+cd CPUStatsLog
 ```
 3. Make the script executable
 ```
@@ -42,10 +42,10 @@ chmod +x cpustatslog.sh
 ```
 
 The script will now:
-*Clear the screen each second
-*Display live CPU stats
-*Append readings to cpu_data_log.csv
-*Press CTRL + C to stop logging.
+* Clear the screen each second
+* Display live CPU stats
+* Append readings to cpu_data_log.csv
+* Press CTRL + C to stop logging.
 
 Output File
 All data is logged to:
