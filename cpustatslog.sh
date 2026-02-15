@@ -1,3 +1,6 @@
+# CPU Stats Log
+# By: Michael Klements
+# 16/02/2026
 #!/bin/bash
 
 # Define the output file
